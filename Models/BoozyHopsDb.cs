@@ -8,7 +8,7 @@ namespace BoozyHops.Models
 {
     public class BoozyHopsDb :DbContext
     {
-        public DbSet<Brewery> Brewery { get; set; }
+        public DbSet<Brewery> Breweries { get; set; }
         public DbSet<BreweryReview> Reviews{ get; set; }
     }
 }

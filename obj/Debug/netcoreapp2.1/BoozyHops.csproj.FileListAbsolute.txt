@@ -30,3 +30,35 @@ C:\Users\kendall rhodes\source\repos\BoozyHops\BoozyHops\obj\Debug\netcoreapp2.1
 C:\Users\kendall rhodes\source\repos\BoozyHops\BoozyHops\obj\Debug\netcoreapp2.1\BoozyHops.pdb
 C:\Users\kendall rhodes\source\repos\BoozyHops\BoozyHops\obj\Debug\netcoreapp2.1\BoozyHops.csproj.CopyComplete
 C:\Users\kendall rhodes\source\repos\BoozyHops\BoozyHops\obj\Debug\netcoreapp2.1\BoozyHops.csprojAssemblyReference.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\bin\Debug\netcoreapp2.1\BoozyHops.deps.json
+C:\Users\krhodes\source\repos\boozyhopsapp\bin\Debug\netcoreapp2.1\BoozyHops.runtimeconfig.json
+C:\Users\krhodes\source\repos\boozyhopsapp\bin\Debug\netcoreapp2.1\BoozyHops.runtimeconfig.dev.json
+C:\Users\krhodes\source\repos\boozyhopsapp\bin\Debug\netcoreapp2.1\BoozyHops.dll
+C:\Users\krhodes\source\repos\boozyhopsapp\bin\Debug\netcoreapp2.1\BoozyHops.pdb
+C:\Users\krhodes\source\repos\boozyhopsapp\bin\Debug\netcoreapp2.1\BoozyHops.Views.dll
+C:\Users\krhodes\source\repos\boozyhopsapp\bin\Debug\netcoreapp2.1\BoozyHops.Views.pdb
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.csprojAssemblyReference.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.csproj.CoreCompileInputs.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.RazorAssemblyInfo.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.RazorAssemblyInfo.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.AssemblyInfoInputs.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.AssemblyInfo.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.TagHelpers.input.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.TagHelpers.output.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.RazorCoreGenerate.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.RazorTargetAssemblyInfo.cache
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.RazorTargetAssemblyInfo.cs
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.Views.pdb
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.dll
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.pdb
+C:\Users\krhodes\source\repos\boozyhopsapp\obj\Debug\netcoreapp2.1\BoozyHops.csproj.CopyComplete

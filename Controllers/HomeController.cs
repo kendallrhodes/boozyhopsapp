@@ -13,7 +13,7 @@ namespace BoozyHops.Controllers
             BoozyHopsDb _db = new BoozyHopsDb();
         public IActionResult Index()
         {
-            var model = _db.Brewery.ToList();
+            var model = _db.Breweries.ToList();
 
             return View(model);
         }
